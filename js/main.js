@@ -254,7 +254,7 @@
 		      error: function() {
 
 		      	sLoader.fadeOut();
-		      	$('#message-warning').html("Something went wrong. Please email brittanyterbush@gmail.com.");
+		      	$('#message-warning').html("Something went wrong with client. Please email brittanyterbush@gmail.com directly.");
 		         $('#message-warning').fadeIn();
 
 		      }
